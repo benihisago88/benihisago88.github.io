@@ -6,7 +6,7 @@
 
 - 種別: iOSアプリ（断食タイマー / 健康・フィットネス）
 - 価格: 無料（広告なし・課金なし）
-- 対応: iPhone、iOS 17以降。日本のApp Storeで配信、日本語のみ
+- 対応: iPhone、iOS 16以降。日本のApp Storeで配信、日本語のみ
 - App Store: https://apps.apple.com/jp/app/id6787091633
 - 旧名称: farst（同一アプリ。名称をTOTONOSに変更、記録は引き継がれる）
 - タグライン: ととのうまで、ただ測る。
